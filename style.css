@@ -1,0 +1,18 @@
+.navbar .brand { 
+  max-height: 100px;
+  max-width: 100%; 
+  overflow: visible;
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 0; 
+}
+
+.jumbotron {
+  background: rgb(22,22,212);
+  background: linear-gradient(201deg, rgba(22,22,212,1) 0%, rgba(28,97,191,1) 44%, rgba(230,221,221,1) 100%);
+}
+
+.jumbotron p {
+font-size: 20px;
+color: azure;
+}
